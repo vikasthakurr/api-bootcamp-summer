@@ -1,26 +1,26 @@
 # api-bootcamp-summer
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square) 
 ![GitHub stars](https://img.shields.io/github/stars/vikasthakurr/api-bootcamp-summer?style=flat-square) 
 ![GitHub forks](https://img.shields.io/github/forks/vikasthakurr/api-bootcamp-summer?style=flat-square)
 
-## 📌 Overview
+## Overview
 
 Intensive summer bootcamp on RESTful API design, Express middleware architecture, authentication, and HTTP lifecycle fundamentals.
 
 **Tags:** `#nodejs` `#express` `#rest-api` `#backend` `#api-design` `#javascript`
 
-## 🚀 Key Highlights & Concepts
+## Key Highlights & Concepts
 
 - **Clean Architecture:** Semantic structuring, modular components, and maintainable codebase.
 - **Responsive Design:** Fluid UX optimized across mobile, tablet, and desktop viewports.
 - **Modern Standards:** Built following the latest web development standards and best practices.
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16+ or v18+ recommended)
@@ -43,22 +43,20 @@ Intensive summer bootcamp on RESTful API design, Express middleware architecture
    npm run dev # or npm start
    ```
 
-## 📂 Repository Structure
+## Repository Structure
 ```text
 api-bootcamp-summer/
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── src
+ .gitignore
+ package-lock.json
+ package.json
+ src
 ```
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Vikas Thakur**  
 - **LinkedIn:** [@vikasthakurr](https://www.linkedin.com/in/vikasthakurr)  
 - **Twitter / X:** [@vikasthaakurr](https://twitter.com/vikasthaakurr)  
-- **GitHub:** [@vikasthakurr](https://github.com/vikasthakurr)  
-
-⭐ *If you find this repository helpful or educational, feel free to give it a star!*
+- **GitHub:** [@vikasthakurr](https://github.com/vikasthakurr)
